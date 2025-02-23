@@ -1,0 +1,7 @@
+@FafaAPI_HostAddress = http://localhost:33348
+
+GET {{FafaAPI_HostAddress}}/person/
+Accept: application/json
+
+
+###
